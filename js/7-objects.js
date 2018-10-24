@@ -34,3 +34,5 @@ console.log(lukasz.age, lukasz.eyeColor)
 lukasz.printInfo();
 
 
+
+    
